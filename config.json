@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "Security ID": "Security_ID",
+    "ISIN": "ISIN",
+    "Coupon Rate": "Coupon_Rate",
+    "Maturity Date": "Maturity_Date",
+    "Issue Date": "Issue_Date",
+    "Transaction ID": "Transaction_ID",
+    "Transaction Number": "Transaction_Number",
+    "Activity": "Activity",
+    "Quantity": "Quantity",
+    "Price": "Price",
+    "Principle": "Principle",
+    "Interest": "Interest",
+    "Net Amount": "Net_Amount",
+    "Trade Date": "Trade_Date",
+    "Settlement Date": "Settlement_Date"
+  }
+}
